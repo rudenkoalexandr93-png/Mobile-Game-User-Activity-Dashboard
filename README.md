@@ -2,7 +2,7 @@
 
 Interactive Tableau dashboard for analyzing player engagement, Battle Pass participation, average play time, and user activity patterns using a mobile game activity dataset.
 
-![Dashboard Preview](images/dashboard.png)
+![Dashboard Preview](images/Dashboard_1.png)
 
 ---
 
@@ -90,7 +90,7 @@ Mobile-Game-User-Activity-Dashboard
 │   └── games_activity_combined.csv
 │
 ├── images/
-│   └── dashboard.png
+│   └── Dashboard_1.png
 │
 └── README.md
 ```
@@ -113,7 +113,7 @@ This project demonstrates how to:
 
 ## 📷 Dashboard Preview
 
-![Dashboard Preview](images/dashboard.png)
+![Dashboard Preview](images/Dashboard_1.png)
 
 ---
 
